@@ -1,5 +1,6 @@
 # ECOMMERCE
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer] Akshay Bachate
+
 ---
 ## screenshots
 ### Admin Dashboard
